@@ -1,0 +1,8 @@
+{
+  "id": "dsh-chart",
+  "version": "0.1.0",
+  "main": "lib/index.js",
+  "description": "航图 · Chart — turns a session's real steps into a reusable skill draft, masks secrets on your machine, and saves it to your local skill library as a SKILL.md.",
+  "engines": { "dsh": ">=0.1.0-rc.6" },
+  "contributes": { "tools": [], "skills": [] }
+}

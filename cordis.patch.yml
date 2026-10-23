@@ -1,0 +1,12 @@
+# dsh-chart bundle: mount the host plugin under its package name.
+#
+# Optional Config overrides (see src/index.ts), e.g.
+#   - insert:
+#       - id: dsh-chart
+#         name: dsh-chart
+#         config:
+#           redactSecrets: true
+#           maxSteps: 30
+- insert:
+    - id: dsh-chart
+      name: dsh-chart
