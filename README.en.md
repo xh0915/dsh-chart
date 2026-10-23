@@ -8,7 +8,7 @@ A conversation is a route you already walked: the commands that worked, the file
 
 No new model calls, no guessing. Every step in the draft traces back to an event in that session.
 
-![The Chart tab with a skill draft](design/chart-light.png)
+![The Chart tab with a skill draft](https://testingcf.jsdelivr.net/gh/xh0915/dsh-chart@7b2ff34/design/chart-light.png)
 
 > Interface preview using a sample session: evidence counted from the log on the left, the generated skill draft on the right.
 

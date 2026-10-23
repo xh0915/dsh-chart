@@ -16,7 +16,7 @@
 
 ## 长这样
 
-![航图标签页里的技能草稿](design/chart-light.png)
+![航图标签页里的技能草稿](https://testingcf.jsdelivr.net/gh/xh0915/dsh-chart@7b2ff34/design/chart-light.png)
 
 > 界面预览，用的是示例会话：左边是从日志里数出来的证据，右边是生成的技能草稿。
 
